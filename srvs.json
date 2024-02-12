@@ -7,7 +7,13 @@
     },
     {
       "Server": "abs3971",
-      "Isp": "nbv40.bvc.vbn39.pickets.eu.com",
+      "Isp": "nbv40.bvc.vbn40.pickets.eu.com",
+      "Results": "6340 recipients in 0 queues deleted.",
+      "Entered": "2024-02-11 16:48:06"
+    },
+       {
+      "Server": "abs3971",
+      "Isp": "nbv40.bvc.vbn44.pickets.eu.com",
       "Results": "6340 recipients in 0 queues deleted.",
       "Entered": "2024-02-11 16:48:06"
     },
