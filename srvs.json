@@ -1,38 +1,34 @@
 [
-    {
-      "Server": "",
-      "Isp": "",
-      "Results": "",
-      "Entered": ""
-    },
-    {
-      "Server": "abs3971",
-      "Isp": "nbv40.bvc.vbn40.pickets.eu.com",
-      "Results": "6340 recipients in 0 queues deleted.",
-      "Entered": "2024-02-11 16:48:06"
-    },
-       {
-      "Server": "abs3971",
-      "Isp": "nbv40.bvc.vbn44.pickets.eu.com",
-      "Results": "6340 recipients in 0 queues deleted.",
-      "Entered": "2024-02-11 16:48:06"
-    },
-    {
-        "Server": "abs4341",
-        "Isp": "nbv40.bvc.vbn39.pickets.eu.com,los64.ius61.trezs62.roulade.eu.com,mxsw95.nbvc.ohsx95.multitute.co.com,xsz15.zdx15.esx15.washioncrate.com.de,obg11.sdxw11.njd10.pickets.eu.com,pm0.14d.qa0.dicruridae.eu.com,plk11.okn11.njki21.seismol.eu.com,jut4.hyu03.fvbn03",
-        "Results": "0 recipients in 0 queues deleted. 60 recipients in 3 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues de",
-        "Entered": "2024-02-11 16:48:06"
-      },
-      {
-        "Server": "abs3975",
-        "Isp": "dvdv.bvc.vbn39.pickets.eu.com",
-        "Results": "4340 recipients in 0 queues deleted.",
-        "Entered": "2024-02-11 16:48:06"
-      },
-      {
-        "Server": "abs3531",
-        "Isp": "nbv40.bvc.vbn39.pickets.eu.com,los64.ius61.trezs62.roulade.eu.com,mxsw95.nbvc.ohsx95.multitute.co.com,xsz15.zdx15.esx15.washioncrate.com.de,obg11.sdxw11.njd10.pickets.eu.com,pm0.14d.qa0.dicruridae.eu.com,plk11.okn11.njki21.seismol.eu.com,jut4.hyu03.fvbn03",
-        "Results": "0 recipients in 0 queues deleted. 60 recipients in 3 queues deleted. 5550 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues de",
-        "Entered": "2024-02-11 16:48:06"
-      }
-  ]
+  {
+    "Server": "abs3971",
+    "Mailer": "Youssef Ayrir",
+    "Received": "88850",
+    "Delivered": "87746",
+    "Bounced": "1102",
+    "Hard Bounced": "2"
+  },
+  {
+    "Server": "abs4093",
+    "Mailer": "Youssef Ayrir",
+    "Received": "10925",
+    "Delivered": "10521",
+    "Bounced": "404",
+    "Hard Bounced": "0"
+  },
+  {
+    "Server": "abs4280",
+    "Mailer": "Youssef Ayrir",
+    "Received": "32217",
+    "Delivered": "31948",
+    "Bounced": "269",
+    "Hard Bounced": "0"
+  },
+  {
+    "Server": "abs3672",
+    "Mailer": "Youssef Ayrir",
+    "Received": "17537",
+    "Delivered": "15882",
+    "Bounced": "1654",
+    "Hard Bounced": "1"
+  }
+]
